@@ -44,7 +44,10 @@ In the future, I would love to make the webscraper more dynamic and not restrict
 # How to use
 
 To clone the repository: 
-git clone https://github.com/mahita12/kdrama_recommendation_system.git (*Make sure Git is installed on your computer*)
+
+git clone https://github.com/mahita12/kdrama_recommendation_system.git 
+
+(*Make sure Git is installed on your computer*)
 
 # Credits
 
