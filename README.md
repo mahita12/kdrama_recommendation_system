@@ -39,7 +39,11 @@ To test, I printed out the recommendations for a Kdrama.
 
 <img width="399" alt="image" src="https://user-images.githubusercontent.com/38627648/233739369-1969b82d-54d3-4e4e-8579-752e8879d18a.png">
 
+In the future, I would love to make the webscraper more dynamic and not restricted by pages.
+
 # How to use
+
+To clone the repository: git clone https://github.com/mahita12/kdrama_recommendation_system.git (*Make sure Git is installed on your computer*)
 
 # Credits
 
