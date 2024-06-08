@@ -64,8 +64,6 @@ git clone https://github.com/mahita12/kdrama_recommendation_system.git
 
 <img width="25" alt="image" src="https://user-images.githubusercontent.com/38627648/233743545-82b5e583-9dd6-4366-92d5-47952954d745.png"> https://www.linkedin.com/in/mahita-datla-baa45076
 
-<img width="25" alt="image" src="https://user-images.githubusercontent.com/38627648/233743885-93caca41-1109-4f98-ba82-ea0e7ad8f17d.png"> mahitadatla@yahoo.com
-
 Please share a ⭐ if you like this project.
 
 
